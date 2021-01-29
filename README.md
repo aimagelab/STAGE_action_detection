@@ -2,7 +2,7 @@
 This repository contains the train and test code for the paper _[STAGE: Spatio-Temporal Attention on Graph Entities for Video Action Detection](https://arxiv.org/abs/1912.04316)_
 
 <p align="center">
-<img src="images/graph.jpg" alt="STAGE" width=300 />
+<img src="images/graph2.PNG" alt="STAGE" width=300 />
 </p>
 
 ## Requirements
