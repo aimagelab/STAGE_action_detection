@@ -64,6 +64,8 @@ The size of all the features is ~90 GB.
 **SlowFast features**
 
 You can find SlowFast features at the following links:
+  * [[slowfast_ava2.1_32x2_features_train]](https://drive.google.com/file/d/1rk6KADPuQ5BSoXrx44muHr9FpuNmMWZb/view?usp=sharing)
+  * [[slowfast_ava2.1_32x2_features_val]](https://drive.google.com/file/d/1SjmE8HFbytzEcDqlXkLZ0EAu1k0wsERh/view?usp=sharing)
   * [[slowfast_ava2.2_32x2_features_train]](https://drive.google.com/file/d/1li3fycgYadimoFqK1HhtcnGdtl8RHOc7/view?usp=sharing)
   * [[slowfast_ava2.2_32x2_features_val]](https://drive.google.com/file/d/1Gsp1ffSMwDU9EwreimOMtyWStQsYhobj/view?usp=sharing)
   * [[slowfast_ava2.2_64x2_features_train]](https://drive.google.com/file/d/194CfQtA72vzCmYTIWF7dHnhV7nPfboxz/view?usp=sharing)
