@@ -65,9 +65,9 @@ The size of all the features is ~90 GB.
 
 You can find SlowFast features at the following links:
   * [[slowfast_ava2.2_32x2_features_train]](https://drive.google.com/file/d/1li3fycgYadimoFqK1HhtcnGdtl8RHOc7/view?usp=sharing)
-  * [[slowfast_ava2.2_32x2_features_va]](https://drive.google.com/file/d/1Gsp1ffSMwDU9EwreimOMtyWStQsYhobj/view?usp=sharing)
+  * [[slowfast_ava2.2_32x2_features_val]](https://drive.google.com/file/d/1Gsp1ffSMwDU9EwreimOMtyWStQsYhobj/view?usp=sharing)
   * [[slowfast_ava2.2_64x2_features_train]](https://drive.google.com/file/d/194CfQtA72vzCmYTIWF7dHnhV7nPfboxz/view?usp=sharing)
-  * [[slowfast_ava2.2_32x2_features_va]](https://drive.google.com/file/d/1NrynMHbB1SJJHRjEflrzw_ECTYA0nDPJ/view?usp=sharing)
+  * [[slowfast_ava2.2_32x2_features_val]](https://drive.google.com/file/d/1NrynMHbB1SJJHRjEflrzw_ECTYA0nDPJ/view?usp=sharing)
   
 **Note**: These features are organized differently from I3D ones (you should write a specific dataloader or modify the provided one):
 each 'h5py' file is a dictionary, each containing keys in the format "\<clip_number\>_\<timestamp\>". For each key, the corresponding value is another dictionary with keys "boxes", "features", "labels", containing actors' boxes coorindates, features extracted from the last SlowFast layer before classification and ground truth labels for that specific clip.
