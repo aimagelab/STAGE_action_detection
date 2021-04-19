@@ -64,12 +64,12 @@ The size of all the features is ~90 GB.
 **SlowFast features**
 
 You can find SlowFast features at the following links:
-  * [[slowfast_ava2.1_32x2_features_train]](https://drive.google.com/file/d/1rk6KADPuQ5BSoXrx44muHr9FpuNmMWZb/view?usp=sharing)
-  * [[slowfast_ava2.1_32x2_features_val]](https://drive.google.com/file/d/1SjmE8HFbytzEcDqlXkLZ0EAu1k0wsERh/view?usp=sharing)
-  * [[slowfast_ava2.2_32x2_features_train]](https://drive.google.com/file/d/1li3fycgYadimoFqK1HhtcnGdtl8RHOc7/view?usp=sharing)
-  * [[slowfast_ava2.2_32x2_features_val]](https://drive.google.com/file/d/1Gsp1ffSMwDU9EwreimOMtyWStQsYhobj/view?usp=sharing)
-  * [[slowfast_ava2.2_64x2_features_train]](https://drive.google.com/file/d/194CfQtA72vzCmYTIWF7dHnhV7nPfboxz/view?usp=sharing)
-  * [[slowfast_ava2.2_64x2_features_val]](https://drive.google.com/file/d/1NrynMHbB1SJJHRjEflrzw_ECTYA0nDPJ/view?usp=sharing)
+  * [[slowfast_ava2.1_32x2_features_train]](https://drive.google.com/file/d/1DW0b3Cc4d64P5Ir40cxpquGwYXkA_g-P/view?usp=sharing)
+  * [[slowfast_ava2.1_32x2_features_val]](https://drive.google.com/file/d/1GbCLQ5jK8tk5FBj_DCKouQwyEApkkUfk/view?usp=sharing)
+  * [[slowfast_ava2.2_32x2_features_train]](https://drive.google.com/file/d/1dV1F1wYDBl4M8BRp8_uKlGG4Vszzv9dH/view?usp=sharing)
+  * [[slowfast_ava2.2_32x2_features_val]](https://drive.google.com/file/d/1C9m0DvE0rEyrmG36RggUCLlZOd2AqbVO/view?usp=sharing)
+  * [[slowfast_ava2.2_64x2_features_train]](https://drive.google.com/file/d/1D-W7mJsWAt843GA0IwLaAD7qOpxIQESC/view?usp=sharing)
+  * [[slowfast_ava2.2_64x2_features_val]](https://drive.google.com/file/d/1_Wd89_kQYtwL5IBmj7skJB0uVEUaW5V8/view?usp=sharing)
   
 **Note**: These features are organized differently from I3D ones (you should write a specific dataloader or modify the provided one):
 each 'h5py' file is a dictionary, each containing keys in the format "\<clip_number\>_\<timestamp\>". For each key, the corresponding value is another dictionary with keys "boxes", "features", "labels", containing actors' boxes coorindates, features extracted from the last SlowFast layer before classification and ground truth labels for that specific clip.
