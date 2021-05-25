@@ -54,7 +54,7 @@ I3D actors features are available at the following links:
 Each tar.gz contains a directory, which corresponds to the "actors_features_dir" root. 
 
 Faster-RCNN objects features are available at the following links:
-  * [[Faster-RCNN_objects_train]](https://drive.google.com/open?id=1xAgew9RaJeqq-dWPQgXdkpPT79uwv1nO)
+  * [[Faster-RCNN_objects_train]](https://drive.google.com/file/d/13PrXvAR-Rw9MaTAJA5hInpJG4V_FLNuB/view?usp=sharing)
   * [[Faster-RCNN_objects_val]](https://drive.google.com/open?id=17_9NkM0kB_j0YEersD6y5WRPcKL6fiLp)
 
 Each tar.gz contains an h5py file, which corresponds to the "objects_features.h5" file. 
